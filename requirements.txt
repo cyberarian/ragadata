@@ -1,0 +1,7 @@
+streamlit
+pandas
+azure-ai-inference
+python-dotenv
+openpyxl
+plotly
+PyPDF2
